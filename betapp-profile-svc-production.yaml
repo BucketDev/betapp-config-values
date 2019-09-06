@@ -1,5 +1,5 @@
 betapp-profile-svc:
-  hostname: localhost
+  hostname: bucketdev.site
   port: 3306
   dbName: betapp-bucketdev
   username: betapp
