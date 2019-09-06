@@ -1,0 +1,6 @@
+betapp-profile-svc:
+  hostname: localhost
+  port: 3306
+  dbName: betapp
+  username: root
+  password:
