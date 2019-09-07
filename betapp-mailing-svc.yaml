@@ -1,4 +1,4 @@
-betapp-profile-svc:
+betapp-mailing-svc:
   hostname: localhost
   port: 3306
   dbName: betapp-mailing

@@ -1,4 +1,4 @@
-betapp-profile-svc:
+betapp-group-svc:
   hostname: localhost
   port: 3306
   dbName: betapp-group
