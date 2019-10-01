@@ -1,8 +1,5 @@
 betapp-api-gateway:
   port: 8080
-  config:
-    hostname: https://betapp-config-server.herokuapp.com
-    port: 8080
   eureka:
     hostname: https://betapp-naming-server.herokuapp.com
     port: 8080

@@ -6,9 +6,6 @@ betapp-profile-svc:
     dbName: betapp-profile
     username: root
     password: root
-  config:
-    hostname: http://localhost
-    port: 8888
   eureka:
     hostname: http://localhost
     port: 8761

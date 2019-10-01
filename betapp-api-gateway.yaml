@@ -1,8 +1,5 @@
 betapp-api-gateway:
   port: 8765
-  config:
-    hostname: http://localhost
-    port: 8888
   eureka:
     hostname: http://localhost
     port: 8761

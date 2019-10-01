@@ -6,9 +6,6 @@ betapp-profile-svc:
     dbName: betapp-bucketdev
     username: betapp
     password: cwf9yddkti99
-  config:
-    hostname: https://betapp-config-server.herokuapp.com
-    port: 8080
   eureka:
     hostname: https://betapp-naming-server.herokuapp.com
     port: 8080

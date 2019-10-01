@@ -1,5 +1,2 @@
 betapp-naming-server:
   port: 8761
-  config:
-    hostname: http://localhost
-    port: 8888
