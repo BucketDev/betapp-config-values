@@ -1,0 +1,3 @@
+betapp-naming-server:
+  config:
+    hostname: http://bucketdev.site

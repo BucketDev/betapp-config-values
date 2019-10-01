@@ -4,3 +4,6 @@ betapp-profile-svc:
   dbName: betapp-bucketdev
   username: betapp
   password: cwf9yddkti99
+  config:
+    hostname: http://bucketdev.site
+    port: 8888
