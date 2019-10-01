@@ -1,3 +1,5 @@
 betapp-naming-server:
+  port: 8080
   config:
-    hostname: http://bucketdev.site
+    hostname: https://betapp-config-server.herokuapp.com
+    port: 8080

@@ -1,9 +1,14 @@
 betapp-profile-svc:
-  hostname: localhost
-  port: 3306
-  dbName: betapp-profile
-  username: root
-  password: root
+  port: 8400
+  database:
+    port: 3306
+    hostname: localhost
+    dbName: betapp-profile
+    username: root
+    password: root
   config:
     hostname: http://localhost
     port: 8888
+  eureka:
+    hostname: http://localhost
+    port: 8761
