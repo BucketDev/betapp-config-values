@@ -1,5 +1,5 @@
 betapp-profile-svc:
-  port: 8080
+  port: 80
   database:
     hostname: bucketdev.site
     port: 3306
@@ -8,4 +8,4 @@ betapp-profile-svc:
     password: cwf9yddkti99
   eureka:
     hostname: https://betapp-naming-server.herokuapp.com
-    port: 8080
+    port: 80
