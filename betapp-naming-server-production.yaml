@@ -1,2 +1,5 @@
 betapp-naming-server:
   port: 80
+  eureka:
+    hostname: https://betapp-naming-server.herokuapp.com
+    port: 80
