@@ -1,0 +1,11 @@
+betapp-tournament-svc:
+  port: 80
+  database:
+    hostname: bucketdev.site
+    port: 3306
+    dbName: betapp-bucketdev
+    username: betapp
+    password: cwf9yddkti99
+  eureka:
+    hostname: https://betapp-naming-server.herokuapp.com
+    port: 80

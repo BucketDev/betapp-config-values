@@ -1,6 +1,11 @@
 betapp-tournament-svc:
-  hostname: localhost
-  port: 3306
-  dbName: betapp-tournament
-  username: root
-  password: root
+  port: 8500
+  database:
+    port: 3306
+    hostname: localhost
+    dbName: betapp-tournament
+    username: root
+    password: root
+  eureka:
+    hostname: http://localhost
+    port: 8761
